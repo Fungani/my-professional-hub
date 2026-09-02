@@ -70,6 +70,13 @@
 
 :root {
   --radius: 0.625rem;
+
+  /* Portfolio design tokens — Kinetic athletic */
+  --ink: #0d0d12;
+  --panel: #16161d;
+  --accent: #ff5a1f;
+  --paper: #f5f4f0;
+
   --background: oklch(1 0 0);
   --foreground: oklch(0.129 0.042 264.695);
   --card: oklch(1 0 0);
