@@ -59,6 +59,13 @@
   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-ring: var(--sidebar-ring);
+
+  /* Portfolio design tokens — Kinetic athletic */
+  --color-ink: var(--ink);
+  --color-panel: var(--panel);
+  --color-paper: var(--paper);
+  --font-display: "Anton", sans-serif;
+  --font-sans: "Space Grotesk", sans-serif;
 }
 
 :root {
