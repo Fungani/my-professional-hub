@@ -156,3 +156,12 @@
     color: var(--color-foreground);
   }
 }
+
+/* Portfolio shape utilities — Kinetic athletic */
+@utility kicker {
+  clip-path: polygon(0 0, 100% 0, calc(100% - 14px) 100%, 0 100%);
+}
+
+@utility skew-cut {
+  clip-path: polygon(0 0, 100% 0, calc(100% - 26px) 100%, 0 100%);
+}
